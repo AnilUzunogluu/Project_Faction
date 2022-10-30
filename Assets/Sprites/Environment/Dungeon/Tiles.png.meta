@@ -33,7 +33,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -70,7 +70,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -6395,20 +6395,20 @@ TextureImporter:
       Tiles_198: -1270331294
       Tiles_3: 1996440612
       Tiles_259: 1096333456
-      Tiles_36: -1864934544
-      Tiles_107: -488588959
-      Tiles_140: 1478758256
       Tiles_255: -179595071
-      Tiles_89: -677500133
       Tiles_275: 2004542421
+      Tiles_140: 1478758256
+      Tiles_36: -1864934544
+      Tiles_89: -677500133
+      Tiles_107: -488588959
       Tiles_50: 2141092878
-      Tiles_57: -1605327927
+      Tiles_169: -1780972351
       Tiles_116: 254414747
       Tiles_78: -489728811
       Tiles_44: 1788546834
-      Tiles_179: -2040844584
       Tiles_195: 678625983
-      Tiles_169: -1780972351
+      Tiles_57: -1605327927
+      Tiles_179: -2040844584
       Tiles_77: -475604240
       Tiles_204: 1646496281
       Tiles_59: -1834841189
